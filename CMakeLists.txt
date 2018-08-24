@@ -3,4 +3,4 @@ project(TareaCorta1)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(TareaCorta1 main.cpp "Esto es una prueba.cpp")
+add_executable(TareaCorta1 main.cpp)
